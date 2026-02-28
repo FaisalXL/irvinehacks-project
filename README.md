@@ -70,3 +70,6 @@ curl http://127.0.0.1:8080/v1/chat/completions \
   -H "Content-Type: application/json" \
   -d @/tmp/req.json
 ```
+
+
+Running LLM/VLM on Arduino Uno Q
